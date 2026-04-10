@@ -1,0 +1,9 @@
+# datasets
+data
+!data/.gitkeep
+
+# .DS_store
+.DS_store
+
+# runbook
+docs/git_github_workshop_runbook.md
